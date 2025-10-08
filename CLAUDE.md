@@ -1,9 +1,14 @@
-# rf-ml
-A repository to play around with synthetic RF ML approaches
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+This repository is for experimenting with synthetic RF (Radio Frequency) machine learning approaches. It's currently in early development stages.
 
 ## Environment Setup
 
-This project uses conda for virtual environment management. Create and activate the environment with:
+This project uses conda for virtual environment management:
 
 ```bash
 conda create -n rf-ml python=3.x
