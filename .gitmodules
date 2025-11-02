@@ -1,0 +1,3 @@
+[submodule "satellite_downlink_simulator"]
+	path = satellite_downlink_simulator
+	url = git@github.com:harris-mohamed/satellite_downlink_simulator.git
