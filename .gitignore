@@ -207,5 +207,5 @@ marimo/_lsp/
 __marimo__/
 
 # Project-specific
-# Ignore JSON files in dev_output (large simulation data)
-dev_output/*.json
+# Ignore very large JSON files in dev_output
+dev_output/spectrum_records_*.json
