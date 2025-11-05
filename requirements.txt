@@ -1,0 +1,19 @@
+# Core dependencies for RF-ML project
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Dashboard dependencies
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Satellite downlink simulator (local package - install separately)
+# Install with: pip install -e /path/to/satellite-downlink-simulator
